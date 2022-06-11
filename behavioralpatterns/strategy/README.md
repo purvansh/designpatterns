@@ -13,7 +13,7 @@ Strategy solves above problem by providing a pluggable interface that allows alg
 
 ![UML Diagram of composition](https://i.ibb.co/Z23Y1cV/11491ee4.jpg)
  
-The above figure shows the initial payment methods added, now if we want to add paytm as well, we can just implement the payment interface and go as usual no other class need to know what happended.
+The above figure shows the initial payment methods added, now if we want to add paytm as well, we can just implement the payment interface and go as usual no other class need to know what happended. This helps the team in lots of ways they dont have to go through all the code and remove conflicts if there are any, and the code is modularized so any new strategy can be added without changing the implementation of existing.
 
 ![UML Diagram of composition](https://i.ibb.co/Pm5RcVw/23e21a51.png)
 

@@ -3,4 +3,4 @@ Design patterns helps us to get rid of dirty code and write efficient code. Thes
 
 Behavioural Pattern : 
 
-    1 Strategy --> Done
+    1 Strategy --> Done (Java , Python)

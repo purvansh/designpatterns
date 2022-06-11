@@ -17,5 +17,4 @@ The above figure shows the initial payment methods added, now if we want to add 
 
 ![UML Diagram of composition](https://i.ibb.co/Pm5RcVw/23e21a51.png)
 
-Here there is a basic interface that we need to implement and a context class that manages the algorithms, this context class contains a variable that contains reference of the interface, so it can hold all the classes that implement this interface. 
-Now with this we can change the object/algorithm as needed. 
+Here there is a basic interface that we need to implement and a context class that manages the algorithms, this context class contains a variable of interface iterface, so it can hold all the classes that implement this interface. Now with this we can change the object/algorithm as needed in the context method, we can add a setter in context class to set algorithm for the particular object.

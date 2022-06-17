@@ -1,5 +1,5 @@
 from context import context;
-from sprintworkoutmethod import sprintworkoutmethod;
+from sprintworkoutmethod import sprintworkoutmethod
 from jogworkoutmethod import jogworkoutmethod
 
 

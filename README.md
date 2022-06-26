@@ -3,7 +3,7 @@ Design patterns helps us to get rid of dirty code and write efficient code. Thes
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.😊😊
 
 ## Behavioural Pattern 
-    - [ ] Strategy --> Done (Java , Python)
+ - [ ] Strategy --> Done (Java , Python)
 
 ## Creational patterns
     - [ ] Builder --> Done (Java )

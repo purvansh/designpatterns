@@ -6,5 +6,6 @@ Design patterns helps us to get rid of dirty code and write efficient code. Thes
     1 Strategy --> Done (Java , Python)
 
 ## Creational patterns
+     1 Builder --> Done (Java , Python)
 
 ## Structural patterns

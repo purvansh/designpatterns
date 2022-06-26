@@ -1,4 +1,3 @@
-package behavioralpatterns.strategy.examples.java;
 
 public interface PaymentMethod{
 

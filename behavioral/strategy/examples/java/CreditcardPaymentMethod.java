@@ -1,4 +1,4 @@
-package behavioralpatterns.strategy.examples.java;
+
 
 public class CreditcardPaymentMethod implements PaymentMethod{
     public void pay(int amount){       

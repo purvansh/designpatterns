@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "creational/builder/examples/java",
+        "behavioral/strategy/examples/java"
+    ]
+}

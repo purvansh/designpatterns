@@ -1,5 +1,5 @@
 
-public class Main {
+public class BuilderMain {
 
     public static void main(String args[]){
         CarBuilderInterface b = new CarBuilder();

@@ -1,7 +1,7 @@
-public class RoadDeliver extends Deliver {
+public class RoadDeliver extends Deliver { //extends Deliver
 
-    public Transport createDelivery() {
-        return new Truck();
+    public Transport createDelivery() {  //factory Method 
+        return new Truck();  //returns a new instance of Truck
     }
 }
     

@@ -1,8 +1,7 @@
-public class BoatDeliver extends Deliver {
-
+public class BoatDeliver extends Deliver { //extends Deliver
     
-    public Transport createDelivery() {
-        return new Boat();
+    public Transport createDelivery() {    //factory Method 
+        return new Boat();  //returns a new instance of Boat
     }
 }
     

@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
         "creational/singleton/examples/java",
+        "creational/factorymethod/examples/java",
         "creational/builder/examples/java",
         "behavioral/strategy/examples/java",
-        "creational/factorymethod/examples/java"
+        "creational/abstractfactory/examples/java"
     ]
 }

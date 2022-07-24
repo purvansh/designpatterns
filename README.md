@@ -17,8 +17,8 @@ Design patterns helps us to get rid of dirty code and write efficient code. Thes
 
 ## Creational patterns
  - [x] Builder
- - [ ] Factory Method
- - [ ] Abstract Factory
+ - [x] Factory Method
+ - [x] Abstract Factory
  - [ ] Prototype
  - [x] Singleton
 

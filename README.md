@@ -19,7 +19,7 @@ Design patterns helps us to get rid of dirty code and write efficient code. Thes
  - [x] Builder
  - [x] Factory Method
  - [x] Abstract Factory
- - [ ] Prototype
+ - [x] Prototype
  - [x] Singleton
 
 ## Structural patterns

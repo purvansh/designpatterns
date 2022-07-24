@@ -3,7 +3,8 @@
         "creational/singleton/examples/java",
         "creational/factorymethod/examples/java",
         "creational/builder/examples/java",
+        "creational/abstractfactory/examples/java",
         "behavioral/strategy/examples/java",
-        "creational/abstractfactory/examples/java"
+        "creational/prototype/examples/java"
     ]
 }

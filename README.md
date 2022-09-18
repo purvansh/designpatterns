@@ -11,7 +11,6 @@ Design patterns helps us to get rid of dirty code and write efficient code. Thes
  - [ ] Memento
  - [ ] Observer
  - [ ] State
- - [ ] Strategy
  - [ ] Template Method
  - [ ] Visitor
 
